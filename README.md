@@ -40,6 +40,9 @@ print(df['Symbol'])
 
 ```
 
+![Figure_1](https://user-images.githubusercontent.com/90355826/158221954-55c43927-c456-48f7-abe3-6582d47186ec.png)
+
+
 ## Contributing
 Improvements, contributions and pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
