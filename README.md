@@ -15,6 +15,17 @@
 
 Portfolio Theory and Management for classic and/or crypto portfolio of assets. Efficient Frontier and Optimal Portfolio Asset Allocation.
 
+
+## Graphical output
+
+<p align="center">
+    <img width=60% src="https://github.com/enginance/Asset-Management/blob/main/images/asset_management_correlation.png">
+    <img width=60% src="https://github.com/enginance/Asset-Management/blob/main/images/asset_management_frontier.png">
+    <img width=60% src="https://github.com/enginance/Asset-Management/blob/main/images/asset_management_optimal.png">
+    <img width=60% src="https://github.com/enginance/Asset-Management/blob/main/images/asset_management_sharpe.png">
+</p>
+
+
 ## Installation
 
 Based on PyPortfolioOpt by @robertmartin8 (Thanks a lot for the exceptional work!)
@@ -39,8 +50,6 @@ pip install PyPortfolioOpt
 print(df['Symbol'])
 
 ```
-
-![Figure_1](https://user-images.githubusercontent.com/90355826/158221954-55c43927-c456-48f7-abe3-6582d47186ec.png)
 
 
 ## Contributing
